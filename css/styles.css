@@ -1,0 +1,33 @@
+body{
+  font-family: "Poppins", sans-serif;
+}
+.btn {
+    color: #FC4B08 !important;
+    background-color: white;
+    border: 2px solid #FC4B08;
+}
+
+.textoclase{
+    padding: 0%;
+    line-height: .1em;
+}
+
+hr {
+  display: block;
+  border: 0;
+  border-top: 2px solid black;
+}
+
+h1{
+    font-size: large;
+
+}
+
+.tarjeta{
+    background-color: #ededed;
+}
+
+.botonfinal{
+    background-color: #ededed;
+}
+
